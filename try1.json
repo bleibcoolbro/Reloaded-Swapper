@@ -1,0 +1,15 @@
+{
+    "Database" : [
+        {
+            "icon" : "",
+            "swapicon" :"",
+            "itemtype" : "",
+            "name" : "",
+            "Asset"  :[
+                {
+                    "File" : "https://cdn.discordapp.com/attachments/903570516009439282/903570551149297674/EID_BoogieDown.uasset"
+                }
+            ]
+        }
+    ]
+}
