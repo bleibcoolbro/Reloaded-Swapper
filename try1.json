@@ -4,12 +4,9 @@
             "icon" : "https://image.fnbr.co/emote/5c77cec2626179db3449f108/icon_192.png",
             "swapicon" :"https://image.fnbr.co/emote/5b0e943ddb94f1ce4ac0a8e2/icon_192.png",
             "itemtype" : "emote",
-            "name" : "Joe",
-            "Asset"  :[
-                {
-                    "File" : "https://cdn.discordapp.com/attachments/903570516009439282/903570551149297674/EID_BoogieDown.uasset"
-                }
-            ]
+            "name" : "EID_BoogieDown",
+            "File" : "https://cdn.discordapp.com/attachments/903570516009439282/903570551149297674/EID_BoogieDown.uasset"
+            
         }
     ]
 }
